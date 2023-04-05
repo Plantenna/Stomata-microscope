@@ -19,4 +19,12 @@ To meet this demands we used the following approach:
 
 Imaging light was either green or near infrared, the latter with the least impact on the stomatal physiology but with lower resolving power, and a filter was used to only image in this wavelength range (monochromatic). This choice was made to minimize chromatic abberations and to be at the maximum sensitivity of the cameras that we employed. Additionally both wavelengths are  reflected/transmitted well by the leaf surface and thereby enable imaging in bright or darkfield mode.
 
-The microscope objectives used were all from mitutoyo, ranging from 20x to 50x with NA from 0.42 to 0.75 and with working distances of XX to XX mm 
+The microscope objectives used were all from Mitutoyo, ranging from 20x to 50x with numerical apertures (NA) from 0.42 to 0.75 and with working distances (WD) of XX to XX mm. For near infrared (NIR) imaging we used a 50x NIR objective, 0.42 NA, WD XX mm. 
+
+The imaging light came from an effiring light green or NIR with the focus and the diffuseness of the light optimized for each leaf sample. (see effiring specifics) In a variation, the green light from the PSI LEDS could also be used for imaging. Light intensity used was optimized for each leaf sample.
+
+
+
+
+
+
