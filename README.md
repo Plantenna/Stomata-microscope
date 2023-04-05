@@ -6,14 +6,21 @@ Stomata regulate the gas exchange with the environment, balancing between water 
 
 Design principle
 
-The microscope is designed to image stomata non-inbasively in the growth environment, therefore the following demands had to be met by the microscope: 
+The microscope is designed to image stomata non-invasively in the growth environment, therefore the following demands had to be met by the microscope: 
                   low light intensity for imaging light (to least affect the stomatal behaviour), 
+                  
                   high resolution (to resolve minimal apertures), 
+                  
                   long working distance (to keep the leaf in its natural surrounding as much as possible), 
+                  
                   A clamp that keeps the leaf in position but doesnt affect its physiology
+                  
                   control over stimulus light to affect the stomatal behavior
+                  
                   Autofocus, to follow the movement of the leaf surface over time on the z-axis when the leaf turgor changes,
+                  
                   A speed of imaging that could resolve the surface of the leaf within a minute or less
+                  
                  
 To meet this demands we used the following approach:
 
