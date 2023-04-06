@@ -41,7 +41,7 @@ The camera (https://www.flir.eu/products/blackfly-s-usb3/?model=BFS-U3-244S8M-C&
 
 The hardware list and 3D model (Solidworks) are in folder stomata microscope mechanical
 
-The labview acquisition software is in folder YY
+The labview acquisition software is in folder plantenna latest version 2022
 
 The ImageJ analyses scripts are in folder ZZ
 
