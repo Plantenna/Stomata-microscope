@@ -43,7 +43,7 @@ The hardware list and 3D model (Solidworks) are in folder stomata microscope mec
 
 The labview acquisition software is in folder plantenna latest version 2022
 
-The ImageJ analyses scripts are in folder ZZ
+The ImageJ analyses scripts are in folder ImageJscripts
 
 
 
