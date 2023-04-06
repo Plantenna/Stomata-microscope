@@ -39,8 +39,11 @@ An autofocus function, based on contrast values, was employed to fit a gaussian 
 
 The camera (https://www.flir.eu/products/blackfly-s-usb3/?model=BFS-U3-244S8M-C&vertical=machine+vision&segment=iis) was used in 12bit mode with 2x2 binning to be able to use the lowest possible light intensity for imaging. The exposure time was optimized for each leaf sample. A typical image stack contained 100 images spaced across 100 micrometer that were acquired over a period of 50 seconds. z-axis depth (stack size) and z-axis step size were adjusted to the leaf and the microscope objectives depth of image, such that distance between images along z was always less than the depth of image of the microscope objective.
 
+The hardware list and 3D model (Solidworks) are in folder XX
 
+The labview acquisition software is in folder YY
 
+The ImageJ analyses scripts are in folder ZZ
 
 
 
